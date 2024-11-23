@@ -9,6 +9,10 @@ app = Flask(__name__)
 
 import os
 
+from flask_cors import CORS
+
+CORS(app)
+
 def load_data(file_name):
     if not os.path.exists(file_name):
         print(f"File not found: {file_name}")
