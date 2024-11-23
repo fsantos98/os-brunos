@@ -1,8 +1,9 @@
 import asyncio
 import time
+import requests
 from filelock import FileLock
 
-from bedrock import get_bedrock_completion
+from bedrock import get_timestamps
 
 # This example uses the sounddevice library to get an audio stream from the
 # microphone. It's not a dependency of the project but can be installed with
@@ -26,9 +27,22 @@ async def handle_summary_action(transcript):
     print(f"Handling summary for: {transcript}")
     # Simulate a request or perform a task
     await asyncio.sleep(1)  # Replace with actual background task
-    response = get_bedrock_completion(transcript)
-    print("------")
-    print(response)
+    start_time, end_time  = get_timestamps(transcript)
+    # URL to send the GET request to
+    url = "http://localhost:3000/get_text"
+    payload = {
+        "start_time": start_time,
+        "end_time": end_time,
+    }
+
+    print("send request to: ", url)
+    print("payload: ", payload)
+    response = requests.post(url, json=payload)
+
+    if response.status_code == 200:
+        print("Response JSON:", response.json())
+    else:
+        print(f"Failed to fetch data. Status code: {response.status_code}")
 
 keyword_actions = {
     "summary": handle_summary_action,
