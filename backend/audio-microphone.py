@@ -5,30 +5,53 @@ from amazon_transcribe.handlers import TranscriptResultStreamHandler
 from amazon_transcribe.model import TranscriptEvent
 from datetime import datetime
 import aiofiles  # Async file operations
+import requests
 
 import httpx
 import asyncio
 
 from generate_summary import send_to_generate_summary
+from ai_assistant import get_timestamps_ai
 
-async def handle_summary_action(data: None):
-    url = "http://localhost:5111/transcript"
-    
-    # The data you want to send (the transcript and other information)
-    transcript_data = """
-    I think we should focus on improving the user interface.
-    Yes, the current design is outdated and not very user-friendly.
-    We also need to consider the performance issues.
-    Agreed, but let's prioritize the UI first.
-    I can start working on some new design mockups.
-    I'll look into optimizing the backend performance.
-    Great, let's reconvene next week with our progress.
-    """
+async def handle_summary_action(transcript):
+    url = "http://localhost:5111/transcripts"
 
-    summary_command = "Give me a summary of the discussion, in bullet points."
-    full_prompt = f"{transcript_data}\n\n{summary_command}"
+    dates = get_timestamps_ai(transcript)
+
+    print(dates)
+
+
+    dates = [
+        f"[{datetime.strptime(date, '%Y-%m-%d %H:%M').strftime('%Y-%m-%d %H:%M:%S')}]"
+        for date in dates
+    ]
+    print(dates[0])
+    print(dates[1])
+    payload = {
+        "start": dates[0],
+        "end": dates[1],
+    }
+
+    print("send request to: ", url)
+    print("payload: ", payload)
+    try:
+        response = requests.post(url, json=payload)
+
+        if response.status_code == 200:
+            print("Response JSON:", response.json())
+            # The data you want to send (the transcript and other information)
+            transcript_data = ' '.join(response.json())
+
+            summary_command = transcript
+            full_prompt = f"{transcript_data}\n\n{summary_command}"
+            
+            send_to_generate_summary(transcript_data, summary_command, 1)
+        else:
+            print(f"Failed to fetch data. Status code: {response.status_code}")
+    except requests.exceptions.RequestException as e:
+        print(f"Error: {e}")    
     
-    send_to_generate_summary(transcript_data, summary_command, 1)
+
 
 
 # Define the action as a function reference, not executing it immediately

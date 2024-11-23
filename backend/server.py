@@ -7,13 +7,19 @@ from sqlite import DatabaseManager  # Adjust the import path if necessary
 
 app = Flask(__name__)
 
+import os
+
 def load_data(file_name):
-    """Load transcript data from a file."""
+    if not os.path.exists(file_name):
+        print(f"File not found: {file_name}")
+        return []
     try:
         with open(file_name, "r") as f:
             return f.readlines()
-    except FileNotFoundError:
+    except Exception as e:
+        print(f"Error reading file {file_name}: {e}")
         return []
+
 
 @app.route('/authenticate', methods=['POST'])
 def authenticate_user():
@@ -43,6 +49,7 @@ def authenticate_user():
 @app.route('/transcripts', methods=['POST'])
 def get_transcripts():
     """Fetch filtered transcripts based on timestamps."""
+    print('ENTRREEEEEIIII')
     try:
         data = request.get_json()
         start_timestamp = data.get('start')
@@ -50,8 +57,12 @@ def get_transcripts():
     except (json.JSONDecodeError, TypeError):
         return jsonify({"error": "Invalid JSON data"}), 400
 
-    file_name = f"transcription_{datetime.now().strftime('%Y-%m-%d')}.txt"
+    parsed_start = datetime.strptime(start_timestamp, "[%Y-%m-%d %H:%M:%S]")
+    file_name = f"backend/transcription_{parsed_start.strftime('%Y-%m-%d')}.txt"
+    print(file_name)
     transcripts = load_data(file_name)
+
+    print(transcripts)
 
     if start_timestamp:
         try:
