@@ -16,7 +16,7 @@ from ai_assistant import get_timestamps_ai
 #from generate_image import send_to_generate_image
 
 async def handle_summary_action(transcript):
-    url = "http://localhost:5111/transcripts"
+    url = "http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111/transcripts"
 
     dates = get_timestamps_ai(transcript)
 
