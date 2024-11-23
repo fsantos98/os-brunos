@@ -91,11 +91,19 @@ class DatabaseManager:
 
     def get_summary(self, user_id):
         """Fetch summaries by user ID."""
+        print(f"Fetching summaries for user ID: {user_id}")
         connection = self._connect()
         try:
             with connection.cursor() as cursor:
+                print('Executing query...')
                 cursor.execute('SELECT * FROM summaries WHERE userId = %s', (user_id,))
-                return cursor.fetchall()
+                result = cursor.fetchall()
+                print('ok')
+                return result
+        except Exception as e:
+            # Log the error and print it
+            logging.error(f"Error occurred while fetching summaries for user {user_id}: {e}")
+            print(f"Error occurred while fetching summaries: {e}")
         finally:
             connection.close()
 
@@ -112,16 +120,17 @@ if __name__ == "__main__":
     )
 
     # Insert a new user
-    user_id = db_manager.insert_user('Jane Doe', 'janedoe@example.com', 'securepassword')
-    print(f"New user ID: {user_id}")
+    #user_id = db_manager.insert_user('Jane Doe', 'janedoe@example.com', 'securepassword')
+    #print(f"New user ID: {user_id}")
 
     # Fetch the user by email
-    user = db_manager.get_user_by_email('janedoe@example.com')
-    print(f"User fetched by email: {user}")
+    #user = db_manager.get_user_by_email('janedoe@example.com')
+    #print(f"User fetched by email: {user}")
 
     # Insert a summary
-    db_manager.insert_summary(user_id, "This is Jane Doe's summary.")
+    #db_manager.insert_summary(user_id, "This is Jane Doe's summary.")
 
     # Fetch summaries for the user
-    summaries = db_manager.get_summary(user_id)
-    print(f"Summaries for user {user_id}: {summaries}")
+    summaries = db_manager.get_summary(1)
+    print(f"Summaries for user {1}: {summaries}")
+#

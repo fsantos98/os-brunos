@@ -82,7 +82,13 @@ def send_to_generate_summary(prompt, command, user_id):
         logger.info(f"Generated text: {output_text}")
 
         # Insert the summary into the database
-        db_manager = DatabaseManager()
+        db_manager = DatabaseManager(
+            db_name='defaultdb',
+            user='avnadmin',
+            password='AVNS_U-c1ezivY9TcPqqXrwg',
+            host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
+            port=18173
+        )
         db_manager.insert_summary(user_id, output_text)
 
         return {"summary": output_text}

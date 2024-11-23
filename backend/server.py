@@ -38,9 +38,17 @@ def authenticate_user():
     if not email or not password:
         return jsonify({"error": "Email and password are required"}), 400
 
-    db_manager = DatabaseManager()
+    db_manager = DatabaseManager(
+        db_name='defaultdb',
+        user='avnadmin',
+        password='AVNS_U-c1ezivY9TcPqqXrwg',
+        host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
+        port=18173
+    )
     user = db_manager.get_user_by_email(email)
 
+    print('found this')
+    print(user)
     if user is None:
         return jsonify({"error": "User not found"}), 404
 
@@ -99,25 +107,34 @@ def get_transcripts():
 def get_user_summaries(user_id):
     """Get summaries for a user ordered by creation date."""
     try:
-        print('1')
-        db_manager = DatabaseManager()
-        print('2')
-        summaries = db_manager.get_summary(1)
+        print(f"Fetching summaries for user ID: {user_id}")
+        
+        db_manager = DatabaseManager(
+            db_name='defaultdb',
+            user='avnadmin',
+            password='AVNS_U-c1ezivY9TcPqqXrwg',
+            host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
+            port=18173
+        )
+        
+        summaries = db_manager.get_summary(user_id)
         print(summaries)
 
         if not summaries:
             return jsonify({"error": "No summaries found for this user"}), 404
 
-        # Format the response
+        # Format the response, access columns by key name
         summaries_response = [
-            {"id": summary[0], "summary_text": summary[2], "user_id": summary[1]}
+            {"id": summary['id'], "summary_text": summary['summary_text'], "user_id": summary['userId']}
             for summary in summaries
         ]
 
         return jsonify({"summaries": summaries_response}), 200
 
     except Exception as e:
+        print(f"Error: {e}")  # Log the error message
         return jsonify({"error": "An internal error occurred"}), 500
+
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", debug=True, port=5111)
