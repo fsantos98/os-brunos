@@ -23,8 +23,8 @@ const SummaryComponent: React.FC = () => {
       }
       const data = await response.json();
       setSummary(data.summary);
-    } catch (err: any) {
-      console.error('Error fetching summary:', err.message);
+    } catch (err) {
+      console.error('Error fetching summary:', err);
       setError('Failed to load summary. Please try again.');
     } finally {
       setLoading(false);
