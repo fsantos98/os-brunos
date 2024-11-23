@@ -542,3 +542,201 @@
 [2024-11-23 18:54:20] [Microphone] I thought that's too much.
 [2024-11-23 18:54:22] [Microphone] There's a bush.
 [2024-11-23 18:54:24] [Computer Audio] If you repeat the same vocabulary and sentences many times.
+[2024-11-23 18:59:32] [Microphone] from 10 to 5 p.m. Can you make some summary of it and try to improve it by doing some research on the team that we talked about.
+[2024-11-23 18:59:57] [Microphone] A Jarvis yesterday we had a meeting from 10 to 5 p.m. Can you make some summary of it and try to improve it by doing some research on the internet and and yeah 10 to 5 p.m. in the meeting for the child.
+[2024-11-23 19:00:02] [Microphone] I just OK.
+[2024-11-23 19:00:10] [Microphone] So this model is unable to respond to the prompts, OK?
+[2024-11-23 19:00:13] [Microphone] This model is unable to respond to the prompts.
+[2024-11-23 19:00:19] [Microphone] a research.
+[2024-11-23 19:00:26] [Microphone] OK.
+[2024-11-23 19:00:39] [Microphone] terms of what it was.
+[2024-11-23 19:00:44] [Microphone] to my mind.
+[2024-11-23 19:00:49] [Microphone] Yeah.
+[2024-11-23 19:00:53] [Microphone] uh, yeah.
+[2024-11-23 19:00:59] [Microphone] OK.
+[2024-11-23 19:01:04] [Microphone] There's the.
+[2024-11-23 19:02:38] [Microphone] Hello
+[2024-11-23 19:02:47] [Microphone] Jarvis, uh, today had a meeting from 8 a.m. to 10 a.m. Can you make a summary of it?
+[2024-11-23 19:02:53] [Microphone] Is that a fish to put by internet.
+[2024-11-23 19:02:56] [Microphone] It's just a.
+[2024-11-23 19:02:59] [Microphone] I.
+[2024-11-23 19:03:12] [Microphone] So, so OK.
+[2024-11-23 19:03:20] [Microphone] not.
+[2024-11-23 19:03:23] [Microphone] OK.
+[2024-11-23 19:03:29] [Microphone] Thank.
+[2024-11-23 19:03:31] [Microphone] OK
+[2024-11-23 19:03:34] [Microphone] And the research.
+[2024-11-23 19:03:37] [Microphone] Summaries of the meetings.
+[2024-11-23 19:03:40] [Microphone] What comes in there.
+[2024-11-23 19:03:42] [Microphone] So
+[2024-11-23 19:03:46] [Microphone] I
+[2024-11-23 19:03:49] [Microphone] for me.
+[2024-11-23 19:03:50] [Microphone] a
+[2024-11-23 19:03:54] [Microphone] So.
+[2024-11-23 19:03:56] [Microphone] Jar.
+[2024-11-23 19:04:02] [Microphone] Yeah.
+[2024-11-23 19:04:04] [Microphone] Jarvis
+[2024-11-23 19:04:39] [Microphone] From 8 a.m. to 100 a.m. Can you make some bullet points.
+[2024-11-23 19:04:45] [Microphone] For this
+[2024-11-23 19:04:52] [Microphone] A Jarvis today had a meeting from 8:00 a.m. to 10:00 a.m. Can you make some bullet points.
+[2024-11-23 19:05:03] [Microphone] I just not on your Jarvis.
+[2024-11-23 19:05:08] [Microphone] It's bullet points.
+[2024-11-23 20:17:27] [Microphone] There.
+[2024-11-23 20:17:29] [Microphone] There's there's.
+[2024-11-23 20:17:30] [Microphone] test
+[2024-11-23 20:17:36] [Microphone] There's theirs for this, um.
+[2024-11-23 20:17:42] [Microphone] Like it on on the leg.
+[2024-11-23 20:17:43] [Microphone] OK.
+[2024-11-23 20:18:02] [Microphone] What? What? Is Jarvis, um, I had a meeting today from 8:00 a.m. to 10 a.m. Can you make a summary of it and also do some research about it.
+[2024-11-23 20:18:06] [Microphone] Yes.
+[2024-11-23 20:18:08] [Microphone] Then.
+[2024-11-23 20:18:10] [Microphone] The
+[2024-11-23 20:18:17] [Microphone] No.
+[2024-11-23 20:18:19] [Microphone] was
+[2024-11-23 20:18:22] [Microphone] I
+[2024-11-23 20:18:26] [Microphone] OK
+[2024-11-23 20:18:28] [Microphone] OK
+[2024-11-23 20:18:46] [Microphone] Test.
+[2024-11-23 20:18:49] [Microphone] Um
+[2024-11-23 20:19:02] [Microphone] Uh, Ajarvis, so today had a meeting from 8:00 a.m. to 10:00 a.m. Can you make a resume of it like and doing some research on the internet to improve it. Thank you.
+[2024-11-23 20:19:50] [Microphone] This
+[2024-11-23 20:19:56] [Microphone] In Jarvis, so you are um.
+[2024-11-23 20:20:01] [Microphone] I
+[2024-11-23 20:20:13] [Microphone] Test.
+[2024-11-23 20:20:26] [Microphone] And Jarvis, I had a meeting today from 8:00 a.m. to 10:00 a.m. and you make a summary of it and also improve it a little bit.
+[2024-11-23 20:34:35] [Microphone] Just the
+[2024-11-23 20:34:40] [Microphone] Yeah.
+[2024-11-23 20:34:47] [Microphone] I
+[2024-11-23 20:34:55] [Microphone] My the other.
+[2024-11-23 20:35:20] [Microphone] And.
+[2024-11-23 20:35:26] [Microphone] You know.
+[2024-11-23 20:35:29] [Microphone] OK
+[2024-11-23 20:35:37] [Microphone] Maybe.
+[2024-11-23 20:35:43] [Microphone] IWS.
+[2024-11-23 20:35:46] [Microphone] That's a.
+[2024-11-23 20:35:48] [Microphone] I
+[2024-11-23 20:35:56] [Microphone] Orcain.
+[2024-11-23 20:36:05] [Microphone] S
+[2024-11-23 20:36:13] [Microphone] I see.
+[2024-11-23 20:37:56] [Microphone] he was.
+[2024-11-23 20:38:20] [Microphone] Yeah.
+[2024-11-23 20:38:26] [Microphone] That's uh some British speech.
+[2024-11-23 20:38:38] [Microphone] cinema set for one of his.
+[2024-11-23 20:38:41] [Microphone] So.
+[2024-11-23 20:38:49] [Microphone] So.
+[2024-11-23 20:39:28] [Microphone] You're still there.
+[2024-11-23 20:39:30] [Microphone] OK
+[2024-11-23 20:39:34] [Microphone] Amazing.
+[2024-11-23 20:51:21] [Microphone] I.
+[2024-11-23 20:51:25] [Microphone] I
+[2024-11-23 20:51:31] [Microphone] Rain.
+[2024-11-23 20:51:33] [Microphone] of the pattern.
+[2024-11-23 20:51:35] [Microphone] Gus.
+[2024-11-23 20:52:31] [Microphone] No
+[2024-11-23 20:53:53] [Microphone] Out.
+[2024-11-23 20:53:55] [Microphone] No.
+[2024-11-23 20:53:58] [Microphone] OK.
+[2024-11-23 20:54:15] [Microphone] some men's out.
+[2024-11-23 20:54:19] [Microphone] The men's out of the game to the pickup.
+[2024-11-23 20:54:21] [Microphone] So.
+[2024-11-23 20:56:26] [Microphone] And
+[2024-11-23 20:57:03] [Microphone] And then.
+[2024-11-23 20:57:08] [Microphone] With the machine was it.
+[2024-11-23 20:57:12] [Microphone] This offer on every 12.
+[2024-11-23 20:57:18] [Microphone] That.
+[2024-11-23 20:57:23] [Microphone] Yeah
+[2024-11-23 20:57:27] [Microphone] It's a symbol.
+[2024-11-23 20:57:35] [Microphone] For them with man.
+[2024-11-23 21:15:28] [Microphone] A.
+[2024-11-23 21:15:37] [Microphone] Antigua how much doing this kind of meeting.
+[2024-11-23 21:15:39] [Microphone] I wanna make sure.
+[2024-11-23 21:16:01] [Microphone] Can you make a left and we can.
+[2024-11-23 21:16:13] [Microphone] it as summer.
+[2024-11-23 21:16:16] [Microphone] So.
+[2024-11-23 21:16:45] [Microphone] I, I.
+[2024-11-23 21:16:47] [Microphone] But you
+[2024-11-23 21:16:51] [Microphone] One siren hosing.
+[2024-11-23 21:16:52] [Microphone] 5
+[2024-11-23 21:16:58] [Microphone] It's settling the dear.
+[2024-11-23 21:17:01] [Microphone] Yes.
+[2024-11-23 21:25:22] [Microphone] OK but yeah like confront them.
+[2024-11-23 21:25:30] [Microphone] redirect que patois.
+[2024-11-23 21:25:32] [Microphone] I don't know, I don't know.
+[2024-11-23 21:26:06] [Microphone] Oh my.
+[2024-11-23 21:26:30] [Microphone] No, no.
+[2024-11-23 21:26:31] [Microphone] OK
+[2024-11-23 21:26:32] [Microphone] That
+[2024-11-23 21:27:02] [Microphone] What you did, why you left.
+[2024-11-23 21:27:05] [Microphone] This
+[2024-11-23 21:27:17] [Microphone] Of Junior of your car.
+[2024-11-23 21:27:21] [Microphone] The article shall be converted to row Hal.
+[2024-11-23 21:27:30] [Microphone] as parts um.
+[2024-11-23 21:27:32] [Microphone] Graphical.
+[2024-11-23 21:27:36] [Microphone] No, no la.
+[2024-11-23 21:27:39] [Microphone] down.
+[2024-11-23 21:27:51] [Microphone] Perhaps to the uh Royer.
+[2024-11-23 21:27:58] [Microphone] But if you like.
+[2024-11-23 21:28:19] [Microphone] That um.
+[2024-11-23 21:28:20] [Microphone] OK.
+[2024-11-23 21:28:27] [Microphone] Oh, I can book a meeting.
+[2024-11-23 21:28:32] [Microphone] On out from Python.
+[2024-11-23 21:28:45] [Microphone] Um
+[2024-11-23 21:28:47] [Microphone] Oh, name please is nice.
+[2024-11-23 21:28:51] [Microphone] So.
+[2024-11-23 21:29:00] [Microphone] Beachki, Ashfaria.
+[2024-11-23 21:29:02] [Microphone] Right
+[2024-11-23 21:29:05] [Microphone] Hm.
+[2024-11-23 21:29:07] [Microphone] That comes for some shit.
+[2024-11-23 21:29:21] [Microphone] interesting.
+[2024-11-23 21:32:06] [Microphone] Hello.
+[2024-11-23 21:32:11] [Microphone] I was done.
+[2024-11-23 21:52:48] [Microphone] Oh.
+[2024-11-23 21:52:49] [Microphone] from
+[2024-11-23 21:52:51] [Microphone] I played it.
+[2024-11-23 21:52:57] [Microphone] You.
+[2024-11-23 21:53:00] [Microphone] Close the door.
+[2024-11-23 21:53:20] [Microphone] It's in 200 per personal accounts.
+[2024-11-23 21:53:28] [Microphone] It's slightly.
+[2024-11-23 21:53:36] [Microphone] It's OK my application Azur.
+[2024-11-23 21:53:39] [Microphone] But.
+[2024-11-23 21:53:42] [Microphone] schedule.
+[2024-11-23 21:53:44] [Microphone] I
+[2024-11-23 21:53:50] [Microphone] toys.
+[2024-11-23 21:53:55] [Microphone] I think.
+[2024-11-23 21:54:09] [Microphone] OK, thanks blah bla blah you should client secrets the permissions to be on the right application, blah blah blah, um, did we?
+[2024-11-23 21:54:11] [Microphone] Mm
+[2024-11-23 21:54:13] [Microphone] Then you may ventilator.
+[2024-11-23 21:54:26] [Microphone] um.
+[2024-11-23 21:54:28] [Microphone] No
+[2024-11-23 21:54:32] [Microphone] To.
+[2024-11-23 21:54:34] [Microphone] People
+[2024-11-23 21:54:36] [Microphone] It was OK.
+[2024-11-23 21:54:38] [Microphone] OK.
+[2024-11-23 21:54:42] [Microphone] Don't.
+[2024-11-23 21:54:45] [Microphone] I.
+[2024-11-23 21:54:51] [Microphone] Shiba.
+[2024-11-23 21:54:56] [Microphone] It's.
+[2024-11-23 21:54:58] [Microphone] Uh.
+[2024-11-23 21:55:02] [Microphone] scorch.
+[2024-11-23 21:55:07] [Microphone] Um.
+[2024-11-23 21:55:10] [Microphone] I switch phones.
+[2024-11-23 21:55:13] [Microphone] Awesome.
+[2024-11-23 21:55:18] [Microphone] for example sex.
+[2024-11-23 21:55:23] [Microphone] I
+[2024-11-23 21:55:28] [Microphone] I.
+[2024-11-23 21:55:34] [Microphone] I don't.
+[2024-11-23 21:55:40] [Microphone] Resolving the Senate stuff.
+[2024-11-23 21:55:41] [Microphone] That
+[2024-11-23 21:55:43] [Microphone] Yes
+[2024-11-23 21:55:48] [Microphone] Yeah.
+[2024-11-23 21:56:02] [Microphone] What's
+[2024-11-23 21:56:09] [Microphone] Hey Jaris, what you doing man?
+[2024-11-23 21:56:12] [Microphone] Re.
+[2024-11-23 21:56:18] [Microphone] the
+[2024-11-23 21:56:23] [Microphone] is subject to all these start yeah.
+[2024-11-23 21:56:25] [Microphone] On provider.
+[2024-11-23 21:56:39] [Microphone] make America great again. Let's make America great again.
+[2024-11-23 21:56:41] [Microphone] that
+[2024-11-23 21:56:43] [Microphone] His response
+[2024-11-23 21:56:46] [Microphone] You
+[2024-11-23 21:56:48] [Microphone] May.
