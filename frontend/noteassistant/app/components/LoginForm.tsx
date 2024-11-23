@@ -35,7 +35,7 @@ export default function LoginForm() {
         alert('Login successful');
         window.location.href = '/summary';  // Redirect to homepage or protected page
       } else {
-        setError(response.message || 'An error occurred');
+        setError('An error occurred');
       }
   };
 

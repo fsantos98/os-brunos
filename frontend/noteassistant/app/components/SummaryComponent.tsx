@@ -16,7 +16,7 @@ const SummaryComponent: React.FC = () => {
 
     try {
       const response = await fetch(
-        `/api/summary?startTime=${date}T${startTime}&endTime=${date}T${endTime}`
+        `http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111/summaries/1`
       );
       if (!response.ok) {
         throw new Error('Failed to fetch summary');
