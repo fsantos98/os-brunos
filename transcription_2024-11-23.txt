@@ -1,0 +1,174 @@
+[2024-11-23 17:30:02] [Microphone] Hello.
+[2024-11-23 17:30:11] [Microphone] Hello, HR, so are you.
+[2024-11-23 17:30:28] [Microphone] Hello Jarvis, OK. Jarvis, how are you?
+[2024-11-23 17:30:57] [Microphone] get my flu shot.
+[2024-11-23 17:31:02] [Microphone] I my.
+[2024-11-23 17:31:11] [Microphone] I
+[2024-11-23 17:31:18] [Microphone] I'm sorry people, no, a very similar with lows.
+[2024-11-23 17:31:29] [Microphone] I
+[2024-11-23 17:31:35] [Microphone] pretty well.
+[2024-11-23 17:31:40] [Microphone] this point.
+[2024-11-23 17:31:43] [Microphone] And my sign.
+[2024-11-23 17:31:50] [Microphone] was
+[2024-11-23 17:31:55] [Microphone] so
+[2024-11-23 17:31:57] [Microphone] Oh.
+[2024-11-23 17:32:06] [Microphone] So, uh, but yes.
+[2024-11-23 17:32:17] [Microphone] Always from 9 p.m. to 10:00 p.m.
+[2024-11-23 17:32:32] [Microphone] Uh yeah, OK, there's not to.
+[2024-11-23 17:32:36] [Microphone] Oh.
+[2024-11-23 17:32:38] [Microphone] Let me down.
+[2024-11-23 17:32:46] [Microphone] No.
+[2024-11-23 17:32:49] [Microphone] Yeah.
+[2024-11-23 17:32:55] [Microphone] So, it is.
+[2024-11-23 17:33:04] [Microphone] Do they uh.
+[2024-11-23 17:33:08] [Microphone] So.
+[2024-11-23 17:33:16] [Microphone] Yeah
+[2024-11-23 17:33:19] [Microphone] this.
+[2024-11-23 17:33:28] [Microphone] because I'm taking them must think because I'm waiting on you.
+[2024-11-23 17:33:29] [Microphone] Um
+[2024-11-23 17:33:31] [Microphone] You.
+[2024-11-23 17:33:37] [Microphone] Are you a real blah blah.
+[2024-11-23 17:33:39] [Microphone] I do it because.
+[2024-11-23 17:33:41] [Microphone] So that.
+[2024-11-23 17:33:46] [Microphone] OK.
+[2024-11-23 17:33:48] [Microphone] So
+[2024-11-23 17:33:49] [Microphone] So
+[2024-11-23 17:33:50] [Microphone] Yeah
+[2024-11-23 17:33:51] [Microphone] Yeah
+[2024-11-23 17:33:56] [Microphone] when we dropped.
+[2024-11-23 17:34:04] [Microphone] I the.
+[2024-11-23 17:34:15] [Microphone] Them.
+[2024-11-23 17:34:23] [Microphone] 79 p.m. to 10 p.m.
+[2024-11-23 17:34:26] [Microphone] there.
+[2024-11-23 17:34:27] [Microphone] That
+[2024-11-23 17:34:30] [Microphone] This.
+[2024-11-23 17:34:33] [Microphone] Sort of.
+[2024-11-23 17:34:34] [Microphone] It
+[2024-11-23 17:34:38] [Microphone] I put it.
+[2024-11-23 17:34:41] [Microphone] OK.
+[2024-11-23 17:34:42] [Microphone] Mhm
+[2024-11-23 17:34:47] [Microphone] I know it's slow.
+[2024-11-23 17:34:49] [Microphone] But that one is just for.
+[2024-11-23 17:34:52] [Microphone] The one.
+[2024-11-23 17:34:57] [Microphone] Of
+[2024-11-23 17:35:04] [Microphone] we
+[2024-11-23 17:35:07] [Microphone] Yeah.
+[2024-11-23 17:35:08] [Microphone] I
+[2024-11-23 17:35:10] [Microphone] What's
+[2024-11-23 17:35:20] [Microphone] I.
+[2024-11-23 17:35:24] [Microphone] Is.
+[2024-11-23 17:35:26] [Microphone] Then when
+[2024-11-23 17:35:32] [Microphone] 12 just visit.
+[2024-11-23 17:35:39] [Microphone] 2nd season will follows. It's amazing.
+[2024-11-23 17:35:45] [Microphone] Oh
+[2024-11-23 17:35:48] [Microphone] So.
+[2024-11-23 17:35:52] [Microphone] sort of
+[2024-11-23 17:35:58] [Microphone] So maybe from 10 p.m. to 11 p.m.
+[2024-11-23 17:36:01] [Microphone] I
+[2024-11-23 17:36:06] [Microphone] Hey Jarvis, let's make a test.
+[2024-11-23 17:36:14] [Microphone] Yes
+[2024-11-23 17:36:16] [Microphone] OK.
+[2024-11-23 17:36:21] [Microphone] OK.
+[2024-11-23 17:36:23] [Microphone] It's.
+[2024-11-23 17:36:27] [Microphone] per.
+[2024-11-23 17:36:29] [Microphone] and
+[2024-11-23 17:45:05] [Microphone] Hello.
+[2024-11-23 17:48:00] [Microphone] So
+[2024-11-23 17:49:25] [Microphone] Hello.
+[2024-11-23 17:49:26] [Microphone] so
+[2024-11-23 17:49:30] [Microphone] How are you.
+[2024-11-23 17:51:50] [Computer Audio] Also ask some questions about it.
+[2024-11-23 17:51:54] [Computer Audio] Try to answer the questions out loud.
+[2024-11-23 17:51:56] [Microphone] Is about.
+[2024-11-23 17:51:58] [Computer Audio] So you will improve your English speaking skills.
+[2024-11-23 17:51:59] [Microphone] That.
+[2024-11-23 17:52:01] [Computer Audio] OK. Are you ready?
+[2024-11-23 17:52:02] [Microphone] I just saw that.
+[2024-11-23 17:52:02] [Computer Audio] Let's get started.
+[2024-11-23 17:54:00] [Microphone] A test.
+[2024-11-23 17:54:01] [Computer Audio] using Grammarly AI for years to keep me high and dry. Try it.
+[2024-11-23 17:54:02] [Microphone] I
+[2024-11-23 17:54:05] [Microphone] You
+[2024-11-23 17:54:06] [Computer Audio] Emerly can look through your writing to make it easier to understand. See, shorter.
+[2024-11-23 17:54:07] [Computer Audio] Well
+[2024-11-23 17:54:08] [Microphone] A a.
+[2024-11-23 17:54:10] [Computer Audio] clearer.
+[2024-11-23 17:54:12] [Computer Audio] Cool.
+[2024-11-23 17:54:13] [Computer Audio] And better.
+[2024-11-23 17:54:14] [Microphone] Hey Jarvis, how are you?
+[2024-11-23 17:54:20] [Computer Audio] Now people will get what you're trying to say and you won't be flooded with confused emails.
+[2024-11-23 17:54:21] [Microphone] Fenno for this.
+[2024-11-23 17:54:22] [Computer Audio] Can you do mine? No problem.
+[2024-11-23 17:54:24] [Microphone] the booking software.
+[2024-11-23 17:54:26] [Microphone] this.
+[2024-11-23 17:54:32] [Microphone] So I guess.
+[2024-11-23 17:54:33] [Computer Audio] Your writing's good, but your word choices could be better. Wow, now your writing is as confident as you are. That's even possible. New email. Oh, what about our proposal?
+[2024-11-23 17:54:35] [Computer Audio] Let me take a look.
+[2024-11-23 17:54:42] [Microphone] You are the next one.
+[2024-11-23 17:54:50] [Computer Audio] Well, you'll be in deep water if you show this to the CEO. Grammarly can point out what's missing right there. The CEO will want to see a deadline, and here you should connect the projections back to company strategy. Uh, yeah, how could I do that, Mia? Can you do a deep dive on it?
+[2024-11-23 17:54:51] [Microphone] front end I just want to know where.
+[2024-11-23 17:54:55] [Microphone] but if you.
+[2024-11-23 17:54:57] [Computer Audio] 10% higher revenue by next year. I'm sending it in.
+[2024-11-23 17:55:01] [Microphone] Yeah.
+[2024-11-23 17:55:03] [Microphone] That
+[2024-11-23 17:55:04] [Microphone] I think so.
+[2024-11-23 17:55:07] [Computer Audio] The CEO loves it. Budget and headcounts are approved. Let's get everyone on board.
+[2024-11-23 17:55:09] [Microphone] No, um, uh, Motoko.
+[2024-11-23 17:55:11] [Microphone] So.
+[2024-11-23 17:55:15] [Computer Audio] figuratively download Grammarly for free.
+[2024-11-23 17:55:16] [Microphone] Yeah.
+[2024-11-23 17:55:25] [Microphone] It's a push.
+[2024-11-23 17:55:28] [Microphone] OK.
+[2024-11-23 17:55:29] [Computer Audio] Hello, are you enjoying the story?
+[2024-11-23 17:55:32] [Computer Audio] Please give us a like. Thank you.
+[2024-11-23 17:55:33] [Microphone] Trump Trump
+[2024-11-23 17:55:34] [Microphone] I
+[2024-11-23 17:55:37] [Computer Audio] It's my fault.
+[2024-11-23 17:55:37] [Microphone] No problem at all.
+[2024-11-23 17:55:42] [Computer Audio] I usually go out with my friends for a drink at about 10 at night.
+[2024-11-23 17:55:46] [Computer Audio] And so I get back home after midnight.
+[2024-11-23 17:55:53] [Computer Audio] Then I usually play video games or look at social media until I finally go to bed at 2.
+[2024-11-23 17:55:54] [Microphone] H. Jarvis, I think my meeting has to you know I'm not OK.
+[2024-11-23 17:56:02] [Computer Audio] Oh, that's not good. You should go to bed sooner.
+[2024-11-23 17:56:02] [Microphone] And is it, OK, no problem. Mswatirada.
+[2024-11-23 17:56:04] [Microphone] O.
+[2024-11-23 17:56:04] [Microphone] Um
+[2024-11-23 17:56:05] [Computer Audio] I know. I think I'm addicted to my phone.
+[2024-11-23 17:56:12] [Microphone] the.
+[2024-11-23 17:56:12] [Computer Audio] OK, so how else is your morning so busy?
+[2024-11-23 17:56:18] [Computer Audio] Well, as I said, I usually wake up too late.
+[2024-11-23 17:56:21] [Computer Audio] What else?
+[2024-11-23 17:56:26] [Microphone] Jarvis, uh, bullet points.
+[2024-11-23 17:56:31] [Computer Audio] As soon as I get up, I have to take my dog outside to go potty.
+[2024-11-23 17:56:32] [Microphone] We still does that for us.
+[2024-11-23 17:56:33] [Microphone] That.
+[2024-11-23 17:56:34] [Computer Audio] Then I usually throw the ball for him so he can exercise.
+[2024-11-23 17:56:34] [Microphone] In.
+[2024-11-23 17:56:38] [Microphone] Uh.
+[2024-11-23 17:56:42] [Computer Audio] By then it is already 7:30 and I still haven't eaten breakfast, brushed my teeth, or gotten dressed.
+[2024-11-23 17:56:45] [Microphone] for the
+[2024-11-23 17:56:46] [Microphone] People
+[2024-11-23 17:56:48] [Microphone] A lot.
+[2024-11-23 17:56:50] [Computer Audio] And my boss leaves for work at 7:45.
+[2024-11-23 17:56:52] [Microphone] And it's commitment.
+[2024-11-23 17:56:53] [Microphone] Mhm
+[2024-11-23 17:56:54] [Computer Audio] That seems a little tight.
+[2024-11-23 17:56:56] [Microphone] Oh
+[2024-11-23 17:56:56] [Computer Audio] How far is the bus stop from your home?
+[2024-11-23 17:57:00] [Microphone] And replace the line.
+[2024-11-23 17:57:01] [Microphone] What the.
+[2024-11-23 17:57:03] [Microphone] I'm.
+[2024-11-23 17:57:04] [Computer Audio] It's a 5-minute walk if I walk fast, which I always do.
+[2024-11-23 17:57:05] [Microphone] So
+[2024-11-23 17:57:10] [Microphone] And like it's that's.
+[2024-11-23 17:57:11] [Computer Audio] I quickly get dressed and brush my teeth, and I usually skip breakfast.
+[2024-11-23 17:57:14] [Microphone] Uh, whoops.
+[2024-11-23 17:57:17] [Computer Audio] Then I run out the door and rush to the bus stop.
+[2024-11-23 17:57:22] [Microphone] conflict.
+[2024-11-23 17:57:23] [Microphone] Mhm
+[2024-11-23 17:57:26] [Computer Audio] If all goes well, I arrive at work by 8:45.
+[2024-11-23 17:57:27] [Microphone] Yeah I wouldn't.
+[2024-11-23 17:57:32] [Computer Audio] Then I usually grab a candy bar or a soda before starting work.
+[2024-11-23 17:57:35] [Microphone] But uh.
+[2024-11-23 17:57:39] [Microphone] And I
+[2024-11-23 17:57:41] [Computer Audio] Then I work until lunch when I usually go and get some fast food with some friends.

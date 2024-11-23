@@ -80,5 +80,29 @@ def get_transcripts():
 
     return jsonify(filtered_data)
 
+@app.route('/summaries/<int:user_id>', methods=['GET'])
+def get_user_summaries(user_id):
+    """Get summaries for a user ordered by creation date."""
+    try:
+        print('1')
+        db_manager = DatabaseManager()
+        print('2')
+        summaries = db_manager.get_summary(1)
+        print(summaries)
+
+        if not summaries:
+            return jsonify({"error": "No summaries found for this user"}), 404
+
+        # Format the response
+        summaries_response = [
+            {"id": summary[0], "summary_text": summary[2], "user_id": summary[1]}
+            for summary in summaries
+        ]
+
+        return jsonify({"summaries": summaries_response}), 200
+
+    except Exception as e:
+        return jsonify({"error": "An internal error occurred"}), 500
+
 if __name__ == '__main__':
     app.run(debug=True, port=5111)
