@@ -18,13 +18,13 @@ const Sidebar: React.FC<SidebarProps> = ({ summaries, onSelect }) => {
       <h2 className="text-xl font-bold mb-4 text-black">Previous Summaries</h2>
       <ul className="space-y-2">
         {summaries.map((summary) => (
-          <li
+            <li
             key={summary.id}
             className="cursor-pointer p-2 rounded-md hover:bg-gray-200"
             onClick={() => onSelect(summary.id)} // Pass `number` directly
-          >
-            {summary.summary_text}
-          </li>
+            >
+            <span className="text-black">{summary.summary_text}</span>
+            </li>
         ))}
       </ul>
     </aside>
