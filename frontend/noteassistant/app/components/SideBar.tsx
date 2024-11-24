@@ -1,33 +1,32 @@
-import React from "react";
+import React from 'react';
 
 interface Summary {
   id: number;
   summary_text: string;
+  user_id: number;
 }
 
 interface SidebarProps {
-  summaries: Summary[]; // Fixed type to be an array of Summary objects
-  onSelect: (id: number) => void; // Updated to use `number` for consistency
+  summaries: Summary[];
+  onSelect: (id: number) => void;
 }
 
 const Sidebar: React.FC<SidebarProps> = ({ summaries, onSelect }) => {
-  console.log(summaries);
-
   return (
-    <aside className="w-1/4 bg-gray-100 p-4 border-r">
-      <h2 className="text-xl font-bold mb-4 text-black">Previous Summaries</h2>
-      <ul className="space-y-2">
+    <div className="h-full p-6 bg-gradient-to-br from-indigo-600 to-indigo-800 shadow-lg">
+      <h2 className="text-3xl font-bold mb-6 border-b border-indigo-400 pb-2">Summaries</h2>
+      <ul className="space-y-4">
         {summaries.map((summary) => (
-            <li
+          <li
             key={summary.id}
-            className="cursor-pointer p-2 rounded-md hover:bg-gray-200"
-            onClick={() => onSelect(summary.id)} // Pass `number` directly
-            >
-            <span className="text-black">{summary.summary_text}</span>
-            </li>
+            onClick={() => onSelect(summary.id)}
+            className="cursor-pointer p-4 bg-indigo-500 hover:bg-indigo-400 rounded-md transition transform hover:scale-105 text-center"
+          >
+            Summary #{summary.id}
+          </li>
         ))}
       </ul>
-    </aside>
+    </div>
   );
 };
 

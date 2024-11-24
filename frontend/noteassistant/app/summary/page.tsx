@@ -64,11 +64,20 @@ const SummariesPage = () => {
   console.log('selectedSummary: ', selectedSummary);
 
   return (
-    <div className="flex h-screen">
-      <Sidebar summaries={summaries} onSelect={handleSelectSummary} />
-      <SummaryDisplay summary={selectedSummary} />
+    <div className="flex h-screen bg-gray-200">
+      {/* Sidebar */}
+      <aside className="w-1/4 bg-gradient-to-br from-indigo-600 to-indigo-800 text-white shadow-lg hidden md:block">
+        <Sidebar summaries={summaries} onSelect={handleSelectSummary} />
+      </aside>
+  
+      {/* Main Content */}
+      <main className="flex-1 flex items-center justify-center p-6">
+        <SummaryDisplay summary={selectedSummary} />
+      </main>
     </div>
   );
+  
+  
 };
 
 export default SummariesPage;
