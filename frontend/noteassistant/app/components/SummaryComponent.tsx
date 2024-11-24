@@ -15,7 +15,7 @@ const SummaryComponent: React.FC = () => {
     setError(null);
 
     try {
-      const response = await fetch(`localhost:5111/summaries/1`);
+      const response = await fetch(`http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111/summaries/1`);
       if (!response.ok) {
         throw new Error('Failed to fetch summary');
       }

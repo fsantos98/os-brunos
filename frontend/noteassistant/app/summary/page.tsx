@@ -33,7 +33,7 @@ const SummariesPage = () => {
     const fetchSummaries = async () => {
       try {
         const response = await fetch(
-          "http://localhost:5111/summaries/1"
+          "http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111/summaries/1"
         );
         const data = await response.json();
         console.log(data);
