@@ -69,8 +69,10 @@ const SummaryDisplay: React.FC<SummaryDisplayProps> = ({ summary }) => {
     const script = document.createElement("script");
     script.src = "https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.4.0/mermaid.min.js";
     script.onload = () => {
+      // @ts-expect-error mermaid
       if (window.mermaid) {
-        window.mermaid.initialize({ startOnLoad: true });
+        // @ts-expect-error mermaid
+	window.mermaid.initialize({ startOnLoad: true });
       }
     };
     document.body.appendChild(script);
