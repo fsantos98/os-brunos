@@ -89,7 +89,7 @@ We are using Amazon EC2 to host our backend, you can access the endpoint:
 
 # Frontend
 
-### How to use
+### How to run
 
 1. `npm install`
 2. `npm run build`
@@ -99,3 +99,10 @@ We are using Amazon EC2 to host our backend, you can access the endpoint:
 
 We are using Amazon EC2 to host our backend, you can access the endpoint:
 - http://ec2-18-237-193-42.us-west-2.compute.amazonaws.com:3000
+
+# How to use
+
+1. Run the Personal Assistant, API and frontend.
+2. Say something to your personal Assistant.
+3. Ask for something (yu have to say "Jarvis" and "summary" in the same phrase)
+4. Go to the frontend and see the information generated.
