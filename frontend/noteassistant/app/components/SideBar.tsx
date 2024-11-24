@@ -2,6 +2,7 @@ import React from 'react';
 
 interface Summary {
   id: number;
+  title: string;
   summary_text: string;
   user_id: number;
 }
@@ -22,7 +23,7 @@ const Sidebar: React.FC<SidebarProps> = ({ summaries, onSelect }) => {
             onClick={() => onSelect(summary.id)}
             className="cursor-pointer p-4 bg-indigo-500 hover:bg-indigo-400 rounded-md transition transform hover:scale-105 text-center"
           >
-            Summary #{summary.id}
+            {summary.title.slice(0, 30)+'...'}
           </li>
         ))}
       </ul>

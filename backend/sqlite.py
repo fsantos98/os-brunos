@@ -32,21 +32,23 @@ class DatabaseManager:
             with connection.cursor() as cursor:
                 # Create Users table
                 cursor.execute('''
-                CREATE TABLE IF NOT EXISTS users (
-                    id INT AUTO_INCREMENT PRIMARY KEY,
-                    name VARCHAR(255) NOT NULL,
-                    email VARCHAR(255) NOT NULL UNIQUE,
-                    password VARCHAR(255) NOT NULL
-                );
+                    CREATE TABLE IF NOT EXISTS users (
+                        id INT AUTO_INCREMENT PRIMARY KEY,
+                        name VARCHAR(255) NOT NULL,
+                        email VARCHAR(255) NOT NULL UNIQUE,
+                        password VARCHAR(255) NOT NULL
+                    );
                 ''')
                 # Create Summaries table
                 cursor.execute('''
-                CREATE TABLE IF NOT EXISTS summaries (
-                    id INT AUTO_INCREMENT PRIMARY KEY,
-                    userId INT,
-                    summary_text TEXT,
-                    FOREIGN KEY (userId) REFERENCES users(id) ON DELETE CASCADE
-                );
+                    CREATE TABLE IF NOT EXISTS summaries (
+                        id INT AUTO_INCREMENT PRIMARY KEY,
+                        userId INT,
+                        title VARCHAR(255) NOT NULL,
+                        summary_text TEXT,
+                        createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                        FOREIGN KEY (userId) REFERENCES users(id) ON DELETE CASCADE
+                    );
                 ''')
                 connection.commit()
         finally:
@@ -76,14 +78,14 @@ class DatabaseManager:
         finally:
             connection.close()
 
-    def insert_summary(self, user_id, summary_text):
+    def insert_summary(self, user_id, title, summary_text):
         """Insert a summary for a user."""
         connection = self._connect()
         try:
             with connection.cursor() as cursor:
                 cursor.execute(
-                    'INSERT INTO summaries (userId, summary_text) VALUES (%s, %s)',
-                    (user_id, summary_text)
+                    'INSERT INTO summaries (userId, title, summary_text) VALUES (%s, %s, %s)',
+                    (user_id, title, summary_text)
                 )
                 connection.commit()
         finally:
@@ -112,7 +114,7 @@ class DatabaseManager:
 if __name__ == "__main__":
     # Replace with your MySQL database credentials
     db_manager = DatabaseManager(
-        db_name='defaultdb',
+        db_name='testdb',
         user='avnadmin',
         password='AVNS_U-c1ezivY9TcPqqXrwg',
         host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
@@ -120,12 +122,12 @@ if __name__ == "__main__":
     )
 
     # Insert a new user
-    #user_id = db_manager.insert_user('Jane Doe', 'janedoe@example.com', 'securepassword')
-    #print(f"New user ID: {user_id}")
+    user_id = db_manager.insert_user('Jane Doe', 'janedoe@example.com', 'securepassword')
+    print(f"New user ID: {user_id}")
 
     # Fetch the user by email
-    #user = db_manager.get_user_by_email('janedoe@example.com')
-    #print(f"User fetched by email: {user}")
+    user = db_manager.get_user_by_email('janedoe@example.com')
+    print(f"User fetched by email: {user}")
 
     # Insert a summary
     #db_manager.insert_summary(user_id, "This is Jane Doe's summary.")

@@ -861,3 +861,44 @@
 [2024-11-23 23:55:53] [Microphone] to
 [2024-11-23 23:55:57] [Microphone] Not that.
 [2024-11-23 23:56:00] [Microphone] OK.
+[2024-11-23 23:56:06] [Microphone] You
+[2024-11-23 23:56:11] [Microphone] For things stuff.
+[2024-11-23 23:56:13] [Microphone] It
+[2024-11-23 23:56:18] [Microphone] It's your pipeline.
+[2024-11-23 23:56:20] [Microphone] T.
+[2024-11-23 23:56:28] [Microphone] Oh.
+[2024-11-23 23:56:30] [Microphone] I don't
+[2024-11-23 23:56:32] [Microphone] I.
+[2024-11-23 23:56:35] [Microphone] On.
+[2024-11-23 23:56:39] [Microphone] Hello friend, how are you?
+[2024-11-23 23:56:41] [Microphone] The system
+[2024-11-23 23:56:44] [Microphone] I think more.
+[2024-11-23 23:56:52] [Microphone] Jabbering.
+[2024-11-23 23:57:11] [Microphone] I still try to go sha Jane those Hey Jarvis, they had a meeting from 8:00 a.m. to 12.
+[2024-11-23 23:57:21] [Microphone] Yeah.
+[2024-11-23 23:57:35] [Microphone] Am. Can you do a summary of it, please, also try to generate a graph for it in a
+[2024-11-23 23:57:42] [Microphone] Yeah.
+[2024-11-23 23:57:48] [Microphone] Erin, uh, today.
+[2024-11-23 23:57:59] [Microphone] But people are.
+[2024-11-23 23:58:13] [Microphone] I don't take.
+[2024-11-23 23:58:19] [Microphone] I forget.
+[2024-11-23 23:58:24] [Microphone] She's a
+[2024-11-23 23:58:28] [Microphone] You don't.
+[2024-11-23 23:58:39] [Microphone] No charge. A Jarvis, so today I had a meeting from 8 a.m. to 12:00 a.m. Can you do a summary for it, please.
+[2024-11-23 23:58:48] [Microphone] I
+[2024-11-23 23:58:51] [Microphone] Most
+[2024-11-23 23:58:55] [Microphone] OK, for your control.
+[2024-11-23 23:59:03] [Microphone] normal.
+[2024-11-23 23:59:08] [Microphone] to me.
+[2024-11-23 23:59:08] [Microphone] ago
+[2024-11-23 23:59:16] [Microphone] know they've started there today at a meeting. I'm still.
+[2024-11-23 23:59:19] [Microphone] terms.
+[2024-11-23 23:59:30] [Microphone] Mm
+[2024-11-23 23:59:31] [Microphone] For
+[2024-11-23 23:59:37] [Microphone] start of transcript it
+[2024-11-23 23:59:43] [Microphone] Mhm
+[2024-11-23 23:59:49] [Microphone] by the waist.
+[2024-11-23 23:59:52] [Microphone] OK the target is.
+[2024-11-23 23:59:54] [Microphone] Oh
+[2024-11-23 23:59:55] [Microphone] I
+[2024-11-23 23:59:59] [Microphone] A transcript gets passed.

@@ -95,7 +95,7 @@ def send_to_generate_summary(prompt, command, user_id):
 
         # Insert the summary into the database
         db_manager = DatabaseManager(
-            db_name='defaultdb',
+            db_name='testdb',
             user='avnadmin',
             password='AVNS_U-c1ezivY9TcPqqXrwg',
             host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
@@ -103,7 +103,7 @@ def send_to_generate_summary(prompt, command, user_id):
         )
         for result in response_body['results']:
             summary_text = result['outputText']
-            db_manager.insert_summary(user_id, summary_text)
+            db_manager.insert_summary(user_id, command, summary_text)
 
         return response_body
 

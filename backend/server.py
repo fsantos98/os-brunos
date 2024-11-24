@@ -39,7 +39,7 @@ def authenticate_user():
         return jsonify({"error": "Email and password are required"}), 400
 
     db_manager = DatabaseManager(
-        db_name='defaultdb',
+        db_name='testdb',
         user='avnadmin',
         password='AVNS_U-c1ezivY9TcPqqXrwg',
         host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
@@ -110,7 +110,7 @@ def get_user_summaries(user_id):
         print(f"Fetching summaries for user ID: {user_id}")
         
         db_manager = DatabaseManager(
-            db_name='defaultdb',
+            db_name='testdb',
             user='avnadmin',
             password='AVNS_U-c1ezivY9TcPqqXrwg',
             host='mysql-3ed7264d-execcsgo-bef4.f.aivencloud.com',
@@ -125,7 +125,7 @@ def get_user_summaries(user_id):
 
         # Format the response, access columns by key name
         summaries_response = [
-            {"id": summary['id'], "summary_text": summary['summary_text'], "user_id": summary['userId']}
+            {"id": summary['id'], "summary_text": summary['summary_text'], "user_id": summary['userId'], "title": summary['title']}
             for summary in summaries
         ]
 
