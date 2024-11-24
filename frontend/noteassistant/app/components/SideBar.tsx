@@ -5,6 +5,7 @@ interface Summary {
   title: string;
   summary_text: string;
   user_id: number;
+  createdAt: string;
 }
 
 interface SidebarProps {
@@ -15,15 +16,22 @@ interface SidebarProps {
 const Sidebar: React.FC<SidebarProps> = ({ summaries, onSelect }) => {
   return (
     <div className="h-full p-6 bg-gradient-to-br from-indigo-600 to-indigo-800 shadow-lg">
-      <h2 className="text-3xl font-bold mb-6 border-b border-indigo-400 pb-2">Summaries</h2>
-      <ul className="space-y-4">
+      <h2 className="text-3xl font-bold mb-6 border-b border-indigo-400 pb-2 text-white">
+        Summaries
+      </h2>
+      <ul
+        className="space-y-4 overflow-y-auto"
+        style={{
+          maxHeight: "calc(100vh - 100px)", // Adjust height to fit within the viewport
+        }}
+      >
         {summaries.map((summary) => (
           <li
             key={summary.id}
             onClick={() => onSelect(summary.id)}
-            className="cursor-pointer p-4 bg-indigo-500 hover:bg-indigo-400 rounded-md transition transform hover:scale-105 text-center"
+            className="cursor-pointer p-4 bg-indigo-500 hover:bg-indigo-400 rounded-md transition transform hover:scale-105 text-center text-white"
           >
-            {summary.title.slice(0, 30)+'...'}
+            {summary.title.slice(0, 30) + '...'}
           </li>
         ))}
       </ul>

@@ -10,6 +10,7 @@ interface Summary {
   title: string;
   summary_text: string;
   user_id: number;
+  createdAt: string;
 }
 
 const SummariesPage = () => {

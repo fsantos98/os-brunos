@@ -61,7 +61,6 @@ def authenticate_user():
 @app.route('/transcripts', methods=['POST'])
 def get_transcripts():
     """Fetch filtered transcripts based on timestamps."""
-    print('ENTRREEEEEIIII')
     try:
         data = request.get_json()
         start_timestamp = data.get('start')
@@ -125,7 +124,7 @@ def get_user_summaries(user_id):
 
         # Format the response, access columns by key name
         summaries_response = [
-            {"id": summary['id'], "summary_text": summary['summary_text'], "user_id": summary['userId'], "title": summary['title']}
+            {"id": summary['id'], "summary_text": summary['summary_text'], "user_id": summary['userId'], "title": summary['title'], "createdAt": summary['createdAt']}
             for summary in summaries
         ]
 
