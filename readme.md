@@ -1,8 +1,10 @@
-# Hello 
+# Jarvis 
+
+Jarvis is your everyday note AI assistant. It will be with you all day, listening to you and your surroundings to collect information and at any time you are able to ask the AI for particular details about your day (meetings, summaries, etc)
 
 ### The problem
 
-Creating comprehensive notes is often challenging, time-consuming, and prone to missing key details.
+Efficiently capturing and organizing the details of daily activities is challenging, often leading to incomplete or inaccurate notes, missed insights, and a lack of actionable summaries, which hampers productivity and decision-making.
 
 ### The solution
 
@@ -14,7 +16,17 @@ An AI assistant that continuously listens to you and your device to generate con
 - Voice Command Recognition: Responds to keywords to execute commands.
 - Information Extraction: Processes large volumes of data to extract relevant insights in real-time.
 - Visual Representation: Generates diagrams and visual aids to represent information effectively.
-- Dynamic Summaries: Provides AI-generated insights for improved decision-making and productivity.
+- Dynamic Summaries: Provides AI-generated personal insights for improved decision-making and productivity.
+
+### Why Privacy Is Not an Issue
+
+Privacy is a top priority in the design of this AI assistant. To ensure user data remains secure and confidential, the system operates locally on your device, eliminating the need for external data transmission. 
+
+Here's how privacy is maintained:
+- Local Processing: All audio capture and transcription are performed on your machine, ensuring that sensitive information never leaves your environment.
+- No Cloud Dependency: This AI does not rely on cloud storage for processing or data storage, reducing the risk of data breaches.
+
+By keeping everything local and secure, the assistant ensures that privacy concerns are fully addressed without compromising functionality or convenience.
 
 ### Architecture
 
@@ -54,11 +66,7 @@ This streamlined process ensures seamless information capture, intelligent summa
 
 This roadmap lays the foundation for a transformative AI assistant, evolving to meet the dynamic needs of users while ensuring a balance of functionality, personalization, and security.
 
-
 # Backend
-
-### How to use
-
 
 #### Setup
 
@@ -72,7 +80,7 @@ This roadmap lays the foundation for a transformative AI assistant, evolving to 
 
 #### Run API
 
-4. `python backend/server.py`
+1. `python backend/server.py`
 
 ### Public endpoint
 
