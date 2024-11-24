@@ -651,3 +651,399 @@
 [2024-11-24 10:42:50] [Microphone] There's.
 [2024-11-24 10:42:52] [Microphone] Yeah
 [2024-11-24 10:42:54] [Microphone] Mason push.
+[2024-11-24 11:28:38] [Microphone] Yesterday.
+[2024-11-24 11:29:02] [Microphone] There's no there's not taste. And uh.
+[2024-11-24 11:29:24] [Microphone] We readable talent acquisition specialist, a seasoned talent acquisition specialist. I had a meeting yesterday can you do a summary position specialist.
+[2024-11-24 11:29:27] [Microphone] Ex.
+[2024-11-24 11:29:38] [Microphone] OK, well what time we'll solve this hello.
+[2024-11-24 11:29:39] [Microphone] Hello
+[2024-11-24 11:29:42] [Microphone] Hello Dali Zello.
+[2024-11-24 11:29:49] [Microphone] Jarvis, give me a summary of the meeting I had yesterday from 8:00 a.m. to 10:00 a.m.
+[2024-11-24 11:45:35] [Microphone] I wear.
+[2024-11-24 11:45:50] [Microphone] No, no, no, I no time of his own so because I'm empty and so I'll play I will because the main thing. No, and that was it.
+[2024-11-24 11:53:56] [Microphone] My meeting.
+[2024-11-24 11:53:58] [Microphone] Mhm
+[2024-11-24 11:54:02] [Microphone] Meeting of free food.
+[2024-11-24 11:54:22] [Microphone] to
+[2024-11-24 11:54:29] [Microphone] um.
+[2024-11-24 11:54:33] [Microphone] and
+[2024-11-24 11:54:57] [Microphone] Hi, this is Eric Johnson. It's February 18, 2021, and this is the engineering key review at Gitlab, um.
+[2024-11-24 11:54:59] [Microphone] So I've
+[2024-11-24 11:55:02] [Microphone] I
+[2024-11-24 11:55:07] [Microphone] recording.
+[2024-11-24 11:55:20] [Microphone] Commission.
+[2024-11-24 11:55:29] [Computer Audio] That's number 4 in the agenda, um, which is a proposal to break up this meeting into 4 department key reviews. So currently this is engineering, um, development quality, security, and UX uh infrastructure and um support do their own key reviews already. I have the reasons why increased visibility, able to go deeper, um, uh, increase the objectivity with which my reports can manage their groups, allow me more time to focus.
+[2024-11-24 11:55:50] [Computer Audio] on new markets and uh allowed me to shift into more of a question asker mode than generating content and answering questions in these meetings. Um, and, uh, but to avoid adding 3 net new meetings to stakeholders' calendars, I propose we do a sort of two month rotation, so month 1, development quality go, month 2 security NUX would go.
+[2024-11-24 11:55:50] [Microphone] It's recording.
+[2024-11-24 11:55:53] [Microphone] For
+[2024-11-24 11:55:54] [Computer Audio] How do people feel about that proposal?
+[2024-11-24 11:56:03] [Microphone] So
+[2024-11-24 11:56:04] [Computer Audio] I think in the group conversations it's working really well, so I'm I'm supportive and
+[2024-11-24 11:56:10] [Microphone] Uh yeah, uh, I have a question, please.
+[2024-11-24 11:56:18] [Computer Audio] This is the smallest thing maybe we need for meetings a month. Like it's the biggest apartment, it's super essential, but you proposed this, I don't, I could see either way, so let's stick with the proposal.
+[2024-11-24 11:56:22] [Microphone] Yes, so basically, uh, I was trying to, to fix the problem, but had some issues. I don't know if one can help me with the ticket 123.
+[2024-11-24 11:56:27] [Computer Audio] Cool. We'll try it and we'll, uh, we can be flexible. I mean, the development is larger, maybe they get more frequently or something like that, but we'll see how, see how it goes.
+[2024-11-24 11:56:35] [Computer Audio] All right. And then uh I've got number 5, which is, uh, we've got, um,
+[2024-11-24 11:56:37] [Microphone] OK, thank you.
+[2024-11-24 11:57:06] [Computer Audio] R&D overall MR rate, and we also have R&D wider MR rate, both as a top level KPIs for engineering. So the difference between them in the simplest sense, is that R&D wire MRA includes both community contributions and community MRs. Um, the problems I see with this are that one, the wider MR rate, uh, the one that includes internal and external MRs, it duplicates the overall MR rate, which is a pro.
+[2024-11-24 11:57:12] [Computer Audio] Sorry, sorry, the, the, the, the wider MR rate should just be external, right?
+[2024-11-24 11:57:17] [Computer Audio] In an overall should be narrow plus wider.
+[2024-11-24 11:57:24] [Computer Audio] Oh yeah like we say the wider community. Right, right, right. OK. So,
+[2024-11-24 11:57:31] [Microphone] Yes, so yesterday I was working on ticket 123, as I said, and they had some problems and um
+[2024-11-24 11:57:35] [Microphone] As a fixed a bag in the loin farm.
+[2024-11-24 11:57:40] [Microphone] words and user sometimes call them do the, the
+[2024-11-24 11:57:42] [Microphone] password reset.
+[2024-11-24 11:57:43] [Microphone] And that's it.
+[2024-11-24 11:57:46] [Microphone] From my side. I will pass it to Junior.
+[2024-11-24 11:57:50] [Computer Audio] There's
+[2024-11-24 11:57:50] [Microphone] OK, that's one.
+[2024-11-24 11:57:51] [Microphone] so
+[2024-11-24 11:57:54] [Computer Audio] I have to check the taxonomy.
+[2024-11-24 11:57:55] [Microphone] websites and what that is.
+[2024-11-24 11:58:02] [Computer Audio] Well, like, can you uh can you confirm that that's, that's Sid's reasoning is my, my understanding as well.
+[2024-11-24 11:58:08] [Computer Audio] Yeah, I believe water, uh, MR rate just captures community contributions.
+[2024-11-24 11:58:19] [Microphone] Yeah.
+[2024-11-24 11:58:22] [Microphone] OK
+[2024-11-24 11:58:25] [Computer Audio] Only and no internal. Yeah, and the reason we measure that is that like one of the most likely failure modes is that we lose the community. Yeah. So we're just we're gets goofy is is that um
+[2024-11-24 11:58:26] [Microphone] OK.
+[2024-11-24 11:58:29] [Microphone] OK.
+[2024-11-24 11:58:33] [Microphone] maker.
+[2024-11-24 11:58:36] [Microphone] You.
+[2024-11-24 11:58:42] [Computer Audio] When you look at a specific team within the company, there could be contributions outside of that that aren't community contributions. They would be viewed community contributions by that group, but effectively they're not from outside the company, so that's why we use wider to kind of reflect that and narrow is very specific to the team.
+[2024-11-24 11:58:48] [Computer Audio] The, are you saying that if uh someone in plan contributes to verify, it's viewed as wider.
+[2024-11-24 11:59:03] [Computer Audio] Not quite that plan, plan and verify are just fine. Uh, it's when you look at like the development versus infrastructure. Infrastructure will oftentimes contribute to developments work, but it won't be counted as MRs.
+[2024-11-24 11:59:31] [Microphone] descriptions.
+[2024-11-24 11:59:34] [Computer Audio] OK, that's a, that's a potential bit of funkiness that we should talk about separately. I didn't have that in my sort of critique of this, but that that doesn't necessarily make intuitive sense to me. Um, so, so then I think um part of my uh critique of this can be thrown out, cause it's not as duplicative as I thought, but I still think there's a problem with R&D wider MRA, which is, um, this thing doesn't really move, in part because it's a, it's a rate. So it feels like the way to drive this up is to specifically
+[2024-11-24 12:00:01] [Computer Audio] community authors to contribute more than one mR per month. That's how this moves up because it's a, it's a productivity rate like we use internally, and that doesn't necessarily feel like the right thing, cause there's scenarios in which this goes up, we've actually got less contributions overall and less contributors overall. Wait, wait, wait, wait a second, so you, you're saying that R&D wider MR rate is number MRs per external contributor.
+[2024-11-24 12:00:05] [Computer Audio] Oh my goodness, that should not be the thing. It should be.
+[2024-11-24 12:00:11] [Computer Audio] contributions for Gitlab team member, so the country those
+[2024-11-24 12:00:15] [Computer Audio] The, the, the thing above the division.
+[2024-11-24 12:00:21] [Computer Audio] is the external ones. The thing below is the number of team members at Gitlab.
+[2024-11-24 12:00:24] [Computer Audio] Is that the case, Lily?
+[2024-11-24 12:00:28] [Computer Audio] I'm checking right now, um,
+[2024-11-24 12:00:35] [Microphone] Mhm
+[2024-11-24 12:00:36] [Microphone] something
+[2024-11-24 12:00:37] [Computer Audio] I think so in our numerator team member, so unless we start calling people outside the company team member, then it shouldn't be done.
+[2024-11-24 12:00:42] [Microphone] technology.
+[2024-11-24 12:00:44] [Microphone] and
+[2024-11-24 12:00:47] [Microphone] When.
+[2024-11-24 12:00:48] [Microphone] Jesus
+[2024-11-24 12:00:48] [Computer Audio] Yeah, just clarifying here. So our numerator is community contributions, and then our uh denominator is, uh, get lab team members, so it's not per
+[2024-11-24 12:00:50] [Microphone] Khosa.
+[2024-11-24 12:00:51] [Computer Audio] External um member.
+[2024-11-24 12:00:54] [Microphone] and
+[2024-11-24 12:00:58] [Microphone] He
+[2024-11-24 12:01:00] [Computer Audio] So we
+[2024-11-24 12:01:01] [Microphone] think
+[2024-11-24 12:01:03] [Microphone] solution.
+[2024-11-24 12:01:06] [Microphone] No, I.
+[2024-11-24 12:01:07] [Microphone] You.
+[2024-11-24 12:01:09] [Microphone] Because I
+[2024-11-24 12:01:13] [Microphone] because it's.
+[2024-11-24 12:01:15] [Computer Audio] So what we're doing there, Eric, is we're not trying to say how many, how many MRs does someone send if they send something or saying how many MRs from external do we get for the size of our organization.
+[2024-11-24 12:01:17] [Microphone] The.
+[2024-11-24 12:01:19] [Microphone] Let me
+[2024-11-24 12:01:22] [Microphone] women
+[2024-11-24 12:01:25] [Microphone] Yes.
+[2024-11-24 12:01:28] [Microphone] so.
+[2024-11-24 12:01:32] [Computer Audio] Sorry, I have a childhood emergency outside the door. Um.
+[2024-11-24 12:01:32] [Microphone] so
+[2024-11-24 12:01:34] [Microphone] no
+[2024-11-24 12:01:40] [Microphone] so
+[2024-11-24 12:01:48] [Microphone] And
+[2024-11-24 12:01:49] [Microphone] You have
+[2024-11-24 12:01:50] [Microphone] And then
+[2024-11-24 12:01:51] [Computer Audio] So, so the maybe explain the context behind this. The context is, as we grow as a company, we should make sure we keep the community up like the logical thing is for the community to flatline and the size of the or to go, and before you know it, you've kind of outgrown the wider community.
+[2024-11-24 12:01:52] [Computer Audio] Yeah
+[2024-11-24 12:02:03] [Microphone] Hm
+[2024-11-24 12:02:09] [Computer Audio] Yeah, and what I'm seeing is we, we created this pre-sophisticated taxonomy with prefixes and postfixes to talk about these things, but in reality we've only got 2 of them, and it's, we keep forgetting and we have a hard time discussing this thing, so I'd rather just name them simply.
+[2024-11-24 12:02:24] [Computer Audio] So two names for what they are, rather than than using the taxonomy, but also like in F I have this proposal of like, what if we just tracked as a KPI the percentage of total MRs that come from the community over time. And we would see that drop. I love that.
+[2024-11-24 12:02:27] [Microphone] is
+[2024-11-24 12:02:29] [Microphone] groups, the same thing.
+[2024-11-24 12:02:32] [Microphone] And then it's supposed to stop.
+[2024-11-24 12:02:33] [Microphone] so
+[2024-11-24 12:02:40] [Microphone] Tell us how to Google that.
+[2024-11-24 12:02:42] [Microphone] This slight start online.
+[2024-11-24 12:02:43] [Microphone] Go.
+[2024-11-24 12:02:46] [Microphone] Oh, those slides I was in.
+[2024-11-24 12:02:48] [Microphone] I don't.
+[2024-11-24 12:02:50] [Microphone] Yeah,
+[2024-11-24 12:02:52] [Microphone] And
+[2024-11-24 12:02:53] [Microphone] I
+[2024-11-24 12:02:54] [Microphone] of
+[2024-11-24 12:02:56] [Microphone] To
+[2024-11-24 12:02:59] [Microphone] I'm sure.
+[2024-11-24 12:03:06] [Microphone] the
+[2024-11-24 12:03:08] [Microphone] Um
+[2024-11-24 12:03:12] [Microphone] OK.
+[2024-11-24 12:03:27] [Microphone] Some
+[2024-11-24 12:04:19] [Microphone] do.
+[2024-11-24 12:04:21] [Microphone] You
+[2024-11-24 12:04:24] [Microphone] And the
+[2024-11-24 12:04:26] [Microphone] Oh.
+[2024-11-24 12:04:27] [Microphone] Mm
+[2024-11-24 12:04:30] [Microphone] Mhm
+[2024-11-24 12:05:10] [Microphone] Oh my
+[2024-11-24 12:05:54] [Microphone] What's it's got guys see the ones that think for that.
+[2024-11-24 12:05:57] [Microphone] Mhm
+[2024-11-24 12:06:00] [Microphone] That was it
+[2024-11-24 12:06:22] [Microphone] I.
+[2024-11-24 12:06:24] [Microphone] I.
+[2024-11-24 12:06:29] [Microphone] Yeah
+[2024-11-24 12:06:32] [Microphone] It.
+[2024-11-24 12:06:34] [Microphone] I do.
+[2024-11-24 12:06:36] [Microphone] Yes.
+[2024-11-24 12:06:39] [Microphone] I still believe.
+[2024-11-24 12:06:50] [Microphone] I want to grab this, please.
+[2024-11-24 12:07:29] [Microphone] the
+[2024-11-24 12:07:35] [Microphone] a.
+[2024-11-24 12:07:39] [Microphone] Thank you to the fight.
+[2024-11-24 12:07:41] [Microphone] I
+[2024-11-24 12:07:44] [Microphone] And
+[2024-11-24 12:07:48] [Microphone] Mhm
+[2024-11-24 12:07:49] [Microphone] What
+[2024-11-24 12:07:50] [Microphone] this
+[2024-11-24 12:07:53] [Microphone] But
+[2024-11-24 12:08:45] [Microphone] So
+[2024-11-24 12:08:49] [Microphone] Um.
+[2024-11-24 12:08:55] [Microphone] of mind.
+[2024-11-24 12:09:00] [Microphone] Multi lost them to do.
+[2024-11-24 12:09:04] [Microphone] yours.
+[2024-11-24 12:09:08] [Microphone] no sever.
+[2024-11-24 12:09:16] [Microphone] I know.
+[2024-11-24 12:09:19] [Microphone] It's really no.
+[2024-11-24 12:09:21] [Microphone] Hm
+[2024-11-24 12:09:29] [Microphone] And
+[2024-11-24 12:09:30] [Microphone] One
+[2024-11-24 12:09:32] [Microphone] Oh
+[2024-11-24 12:09:33] [Microphone] get
+[2024-11-24 12:09:36] [Microphone] This person is fighting in schools.
+[2024-11-24 12:09:36] [Microphone] No
+[2024-11-24 12:09:37] [Microphone] I know.
+[2024-11-24 12:09:42] [Microphone] It's nice.
+[2024-11-24 12:09:49] [Microphone] And also, and also.
+[2024-11-24 12:09:55] [Microphone] like.
+[2024-11-24 12:09:59] [Microphone] It was.
+[2024-11-24 12:10:43] [Microphone] OK.
+[2024-11-24 12:10:46] [Microphone] I was.
+[2024-11-24 12:10:48] [Microphone] Um
+[2024-11-24 12:10:56] [Microphone] Mhm
+[2024-11-24 12:11:36] [Microphone] Don
+[2024-11-24 12:11:39] [Microphone] Because I don't suffer needs to happen.
+[2024-11-24 12:11:42] [Microphone] So, um
+[2024-11-24 12:11:45] [Microphone] Is my teams.
+[2024-11-24 12:11:49] [Microphone] So my meeting invite show were shot of the lodge.
+[2024-11-24 12:11:53] [Microphone] And boys start.
+[2024-11-24 12:11:55] [Microphone] To our alas
+[2024-11-24 12:11:58] [Microphone] front end.
+[2024-11-24 12:12:01] [Microphone] In some.
+[2024-11-24 12:12:03] [Microphone] Yeah
+[2024-11-24 12:12:06] [Microphone] I'm going.
+[2024-11-24 12:12:08] [Microphone] for
+[2024-11-24 12:12:11] [Microphone] Uh
+[2024-11-24 12:12:19] [Microphone] in a real-time transcription transcribe.
+[2024-11-24 12:12:20] [Microphone] Um
+[2024-11-24 12:12:32] [Microphone] Who possess the command of faith to my CD to block the transcription.
+[2024-11-24 12:12:38] [Microphone] Enos games, it was.
+[2024-11-24 12:12:40] [Microphone] yeah.
+[2024-11-24 12:12:45] [Microphone] something.
+[2024-11-24 12:12:48] [Microphone] I think that.
+[2024-11-24 12:12:50] [Microphone] in the
+[2024-11-24 12:12:53] [Microphone] Things which
+[2024-11-24 12:12:53] [Microphone] And
+[2024-11-24 12:12:58] [Microphone] is
+[2024-11-24 12:13:01] [Microphone] In the wallpaper.
+[2024-11-24 12:13:02] [Microphone] We to
+[2024-11-24 12:13:05] [Microphone] Yeah.
+[2024-11-24 12:13:07] [Microphone] Yeah.
+[2024-11-24 12:13:13] [Microphone] teams.
+[2024-11-24 12:13:17] [Microphone] Look.
+[2024-11-24 12:13:20] [Microphone] In this
+[2024-11-24 12:13:26] [Microphone] kicked to music, my meetings.
+[2024-11-24 12:13:30] [Microphone] Uh
+[2024-11-24 12:13:34] [Microphone] a summary of the meeting I had yesterday from 8 a.m.
+[2024-11-24 12:13:35] [Microphone] Standing here.
+[2024-11-24 12:13:37] [Microphone] This is.
+[2024-11-24 12:13:39] [Microphone] for us.
+[2024-11-24 12:13:41] [Microphone] Thank you.
+[2024-11-24 12:13:44] [Microphone] The.
+[2024-11-24 12:13:50] [Microphone] What.
+[2024-11-24 12:13:53] [Microphone] What are what's wrong with him.
+[2024-11-24 12:13:57] [Microphone] Well since you since.
+[2024-11-24 12:14:01] [Microphone] She's she come home.
+[2024-11-24 12:14:03] [Microphone] the
+[2024-11-24 12:14:09] [Microphone] But
+[2024-11-24 12:14:11] [Microphone] Well,
+[2024-11-24 12:14:55] [Microphone] Um.
+[2024-11-24 12:14:58] [Microphone] us.
+[2024-11-24 12:14:59] [Microphone] And
+[2024-11-24 12:15:01] [Microphone] I
+[2024-11-24 12:15:03] [Microphone] school.
+[2024-11-24 12:15:07] [Microphone] s
+[2024-11-24 12:15:09] [Microphone] So thank you
+[2024-11-24 12:15:09] [Microphone] I
+[2024-11-24 12:15:10] [Microphone] OK
+[2024-11-24 12:15:14] [Microphone] And
+[2024-11-24 12:15:16] [Microphone] You
+[2024-11-24 12:15:18] [Microphone] The movements mainly.
+[2024-11-24 12:15:21] [Microphone] Oh.
+[2024-11-24 12:15:23] [Microphone] There's nothing.
+[2024-11-24 12:15:37] [Microphone] you.
+[2024-11-24 12:15:43] [Microphone] Oh.
+[2024-11-24 12:15:48] [Microphone] It is reached
+[2024-11-24 12:15:57] [Computer Audio] Jarvis, give me a summary of The Meeting I had from 10:00 a.m. to 11:00 a.m. in bullet points.
+[2024-11-24 12:16:08] [Microphone] Mhm
+[2024-11-24 12:16:19] [Microphone] Jarvis, give me a summary of the meeting I had from 10 a.m. to 11 a.m.
+[2024-11-24 12:16:23] [Microphone] In bullet points, bullet points.
+[2024-11-24 12:16:28] [Microphone] In the first one because it's me.
+[2024-11-24 12:16:31] [Microphone] This
+[2024-11-24 12:16:35] [Microphone] So.
+[2024-11-24 12:16:38] [Microphone] I.
+[2024-11-24 12:17:49] [Microphone] to
+[2024-11-24 12:17:54] [Microphone] Mhm
+[2024-11-24 12:17:56] [Microphone] Hm
+[2024-11-24 12:18:10] [Microphone] OK
+[2024-11-24 12:18:12] [Microphone] You want that
+[2024-11-24 12:18:14] [Microphone] Your life.
+[2024-11-24 12:18:18] [Microphone] It's.
+[2024-11-24 12:18:26] [Microphone] You know it's a.
+[2024-11-24 12:18:32] [Microphone] That's.
+[2024-11-24 12:18:34] [Microphone] I.
+[2024-11-24 12:18:36] [Microphone] I.
+[2024-11-24 12:18:40] [Microphone] It's.
+[2024-11-24 12:18:42] [Microphone] It's
+[2024-11-24 12:18:46] [Microphone] The
+[2024-11-24 12:18:49] [Microphone] thought was like
+[2024-11-24 12:19:01] [Microphone] The
+[2024-11-24 12:19:02] [Microphone] Yeah
+[2024-11-24 12:19:16] [Microphone] Yeah, yeah, yeah.
+[2024-11-24 12:19:20] [Microphone] You
+[2024-11-24 12:19:22] [Microphone] Yes, it's.
+[2024-11-24 12:19:59] [Microphone] No
+[2024-11-24 12:20:04] [Microphone] Mhm
+[2024-11-24 12:20:07] [Microphone] And
+[2024-11-24 12:20:17] [Microphone] Yeah
+[2024-11-24 12:20:18] [Microphone] OK
+[2024-11-24 12:20:22] [Microphone] Yeah
+[2024-11-24 12:20:51] [Microphone] has been screened.
+[2024-11-24 12:21:19] [Microphone] and
+[2024-11-24 12:22:04] [Microphone] OK
+[2024-11-24 12:23:16] [Microphone] So
+[2024-11-24 12:23:22] [Microphone] What
+[2024-11-24 12:23:23] [Microphone] No, I
+[2024-11-24 12:23:24] [Microphone] So
+[2024-11-24 12:23:25] [Microphone] We
+[2024-11-24 12:23:33] [Microphone] to
+[2024-11-24 12:23:36] [Microphone] See
+[2024-11-24 12:24:28] [Microphone] In
+[2024-11-24 12:24:34] [Microphone] Mhm
+[2024-11-24 12:25:08] [Microphone] the
+[2024-11-24 12:25:10] [Microphone] those
+[2024-11-24 12:25:14] [Microphone] I
+[2024-11-24 12:25:15] [Microphone] Yeah
+[2024-11-24 12:25:26] [Microphone] In
+[2024-11-24 12:25:28] [Microphone] function
+[2024-11-24 12:25:36] [Microphone] It's supposed to function.
+[2024-11-24 12:26:18] [Microphone] You
+[2024-11-24 12:26:33] [Microphone] the
+[2024-11-24 12:26:36] [Microphone] Yes.
+[2024-11-24 12:26:38] [Microphone] And you see that
+[2024-11-24 12:26:40] [Microphone] Street.
+[2024-11-24 12:26:42] [Microphone] I do
+[2024-11-24 12:26:46] [Microphone] If you're not happy, you can go on reset.
+[2024-11-24 12:26:48] [Microphone] And this is.
+[2024-11-24 12:26:49] [Microphone] to
+[2024-11-24 12:26:52] [Microphone] for.
+[2024-11-24 12:27:00] [Microphone] I'm not sure
+[2024-11-24 12:27:04] [Microphone] to you.
+[2024-11-24 12:27:07] [Microphone] vertical
+[2024-11-24 12:27:10] [Microphone] orientation. So now we can edit.
+[2024-11-24 12:27:12] [Microphone] uses.
+[2024-11-24 12:27:15] [Microphone] footage.
+[2024-11-24 12:27:16] [Microphone] Pretty sweet, verticals.
+[2024-11-24 12:27:18] [Microphone] Now keep in mind I'm.
+[2024-11-24 12:27:20] [Microphone] Like the native vertical footage and the timeline.
+[2024-11-24 12:27:27] [Microphone] Two of the best ways to zoom.
+[2024-11-24 12:27:31] [Microphone] there's a couple of.
+[2024-11-24 12:27:33] [Microphone] that we're
+[2024-11-24 12:27:37] [Microphone] She
+[2024-11-24 12:27:42] [Microphone] with the
+[2024-11-24 12:27:44] [Microphone] Yeah
+[2024-11-24 12:27:56] [Microphone] try to get the image into an aspect ratio that.
+[2024-11-24 12:27:59] [Microphone] Like
+[2024-11-24 12:27:59] [Microphone] Here
+[2024-11-24 12:28:02] [Microphone] Select the clip here.
+[2024-11-24 12:28:04] [Microphone] should be
+[2024-11-24 12:28:10] [Microphone] To zoom in
+[2024-11-24 12:28:12] [Microphone] I do here is select this clip.
+[2024-11-24 12:28:14] [Microphone] We're
+[2024-11-24 12:29:06] [Microphone] on the list.
+[2024-11-24 12:30:02] [Microphone] Hm
+[2024-11-24 12:30:40] [Microphone] Did you know you
+[2024-11-24 12:30:45] [Microphone] you want to do
+[2024-11-24 12:30:47] [Microphone] going to this one.
+[2024-11-24 12:30:50] [Microphone] settings
+[2024-11-24 12:30:54] [Microphone] Next thing you want to do is go over here.
+[2024-11-24 12:30:56] [Microphone] Go down to picture picture.
+[2024-11-24 12:30:58] [Microphone] and
+[2024-11-24 12:30:59] [Microphone] picture
+[2024-11-24 12:31:01] [Microphone] Yeah
+[2024-11-24 12:31:02] [Microphone] Here you'll see
+[2024-11-24 12:31:04] [Microphone] 0
+[2024-11-24 12:31:09] [Microphone] I'm supposed to be normal.
+[2024-11-24 12:31:15] [Microphone] Are you supporting you.
+[2024-11-24 12:31:20] [Microphone] It gives us to receive it.
+[2024-11-24 12:31:21] [Microphone] Yeah.
+[2024-11-24 12:31:22] [Microphone] It's on the
+[2024-11-24 12:31:24] [Microphone] No.
+[2024-11-24 12:31:28] [Microphone] Because he's 40%.
+[2024-11-24 12:31:29] [Microphone] room.
+[2024-11-24 12:31:34] [Microphone] I says read me but a sweet.
+[2024-11-24 12:31:36] [Microphone] OK
+[2024-11-24 12:31:38] [Microphone] Huh? In and out.
+[2024-11-24 12:31:40] [Microphone] Disson is a
+[2024-11-24 12:31:48] [Microphone] Oh.
+[2024-11-24 12:32:00] [Microphone] Oh no, I. I killed this and it's like their problem. There's not a solution. There's come to.
+[2024-11-24 12:32:04] [Microphone] Yes, one twice because some people.
+[2024-11-24 12:32:09] [Microphone] It's another
+[2024-11-24 12:32:12] [Microphone] them because.
+[2024-11-24 12:32:16] [Microphone] solution.
+[2024-11-24 12:32:19] [Microphone] Of me in.
+[2024-11-24 12:32:23] [Microphone] So
+[2024-11-24 12:32:28] [Microphone] Mm.
+[2024-11-24 12:32:34] [Microphone] Hm
+[2024-11-24 12:32:38] [Microphone] Uh.
+[2024-11-24 12:32:39] [Microphone] about
+[2024-11-24 12:32:44] [Microphone] The button is low.
+[2024-11-24 12:32:47] [Microphone] but that ain't deliverable.
+[2024-11-24 12:32:49] [Microphone] that
+[2024-11-24 12:32:51] [Microphone] That
+[2024-11-24 12:32:52] [Microphone] my
+[2024-11-24 12:32:53] [Microphone] So
+[2024-11-24 12:32:58] [Microphone] Gus.
+[2024-11-24 12:33:00] [Microphone] How those stuff.
+[2024-11-24 12:33:02] [Microphone] If
+[2024-11-24 12:33:05] [Microphone] Yeah
+[2024-11-24 12:33:07] [Microphone] and
+[2024-11-24 12:33:08] [Microphone] And you
+[2024-11-24 12:33:14] [Microphone] but
+[2024-11-24 12:33:17] [Microphone] this
+[2024-11-24 12:33:18] [Microphone] And
+[2024-11-24 12:33:20] [Microphone] you
+[2024-11-24 12:33:22] [Microphone] This
+[2024-11-24 12:33:25] [Microphone] A sport.
+[2024-11-24 12:33:27] [Microphone] Oh.
+[2024-11-24 12:33:29] [Microphone] Just like that
+[2024-11-24 12:33:30] [Microphone] So
+[2024-11-24 12:33:34] [Microphone] I.
+[2024-11-24 12:33:43] [Microphone] She
+[2024-11-24 12:33:46] [Microphone] That
+[2024-11-24 12:33:47] [Microphone] OK
+[2024-11-24 12:33:51] [Microphone] I
+[2024-11-24 12:33:52] [Microphone] Yeah
+[2024-11-24 12:33:57] [Microphone] guys
+[2024-11-24 12:34:00] [Microphone] It seems like I.
+[2024-11-24 12:34:06] [Microphone] Is.
+[2024-11-24 12:34:08] [Microphone] So we
+[2024-11-24 12:34:19] [Microphone] So as this form.
+[2024-11-24 12:34:23] [Microphone] We

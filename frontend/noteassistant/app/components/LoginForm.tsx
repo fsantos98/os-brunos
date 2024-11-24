@@ -27,7 +27,7 @@ export default function LoginForm() {
     setIsLoading(true);
 
     // Send the data to the API for verification
-    const response = await login(email, password);
+    const response = await login();
     setIsLoading(false);
 
     if (response.ok) {
