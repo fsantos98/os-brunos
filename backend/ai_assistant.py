@@ -12,8 +12,10 @@ def get_timestamps_ai(prompt):
     current_day = datetime.now().day
     current_month = datetime.now().month
     current_year = datetime.now().year
+    curreny_hour = datetime.now().hour
+    current_minute = datetime.now().minute
 
-    curr_date = str(current_day) + '/' + str(current_month) + '/' + str(current_year)
+    curr_date = str(current_day) + '/' + str(current_month) + '/' + str(current_year) + ' ' + str(curreny_hour) + ':' + str(current_minute)
     print("Today is " + curr_date)
 
     response = client.chat.completions.create(
