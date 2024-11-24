@@ -55,26 +55,39 @@ This streamlined process ensures seamless information capture, intelligent summa
 This roadmap lays the foundation for a transformative AI assistant, evolving to meet the dynamic needs of users while ensuring a balance of functionality, personalization, and security.
 
 
-## Backend
-
-
-### How to use
-
-
-
-
-### Public endpoint
-
-http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111
-
-
-
-## Frontend
+# Backend
 
 ### How to use
 
 
+#### Setup
+
+1. `python -m venv venv`
+2. `source venv/bin/activate` (Linux/MAC OS) or `venv\Scripts\activate` (Windows)
+3. `pip install -r requirements.txt`
+
+#### Run personal assistant
+
+1. `python backend/audio-microphone.py`
+
+#### Run API
+
+4. `python backend/server.py`
 
 ### Public endpoint
 
-http://ec2-18-237-193-42.us-west-2.compute.amazonaws.com:3000/
+We are using Amazon EC2 to host our backend, you can access the endpoint:
+- http://ec2-18-246-27-158.us-west-2.compute.amazonaws.com:5111
+
+# Frontend
+
+### How to use
+
+1. `npm install`
+2. `npm run build`
+3. `npm run start`
+
+### Public endpoint
+
+We are using Amazon EC2 to host our backend, you can access the endpoint:
+- http://ec2-18-237-193-42.us-west-2.compute.amazonaws.com:3000
